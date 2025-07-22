@@ -23,3 +23,14 @@ public class Pruthiviraj {
     String learning = "Spring Boot, MongoDB";
     boolean openToWork = true;
 }
+<p align="left"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/> </p>
+
+<p align="left"> <img src="https://img.shields.io/badge/JSP-%231572B6.svg?style=flat&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Servlets-%23323330.svg?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white"/> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PruthivirajPratapRoutray&theme=onedark&no-frame=true&column=7" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=PruthivirajPratapRoutray&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PruthivirajPratapRoutray&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthivirajPratapRoutray&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+
+<!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer"/> ```

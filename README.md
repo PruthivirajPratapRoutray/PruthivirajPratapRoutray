@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Pruthiviraj%20Pratap%20Routray&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-<!--
-**PruthivirajPratapRoutray/PruthivirajPratapRoutray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">💻 Full Stack Java Developer | 💡 Problem Solver | 🎯 E&C Graduate</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:pruthivirajprataproutray@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pruthiviraj-pratap-routray-4513b7275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+```java
+public class Pruthiviraj extends Developer {
+   String[] skills = {"Java", "SQL", "JSP", "Servlets", "React", "Spring Boot"};
+   String focus = "Building reliable & scalable web applications";
+   String goal = "To grow as a Backend Developer in a dynamic tech environment.";
+}

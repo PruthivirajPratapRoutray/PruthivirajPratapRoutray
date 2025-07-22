@@ -17,18 +17,6 @@
   </a>
 </p>
 
-
-<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PruthivirajPratapRoutray&theme=onedark&no-frame=true&column=7" /> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=PruthivirajPratapRoutray&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PruthivirajPratapRoutray&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthivirajPratapRoutray&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
-
-<!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer"/> """
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -40,4 +28,3 @@ public class Pruthiviraj {
     String learning = "MongoDB, System Design";
     boolean openToWork = true;
 }
-
